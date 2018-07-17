@@ -296,6 +296,6 @@ Once `citr` is installed (`install.packages("citr")`) and you have restarted you
 
 Make sure you've got `papaja`, then open a new template file. Compile this document, and look at how awesome it is. (To compile you need `texlive`, a library for compiling markdown to PDF, so you may need to wait and install this later if it's not working). 
 
-Try pasting in your figure and table from your other RMarkdown (don't forget any libraries you need to make it compile). Presto, ready to submit!
+Try pasting in your figure and table from your other RMarkdown (don't forget any libraries you need to make it compile). Presto, ready to submit
 
 For a bit more on `papaja`, check out **[this guide](https://rpubs.com/YaRrr/papaja_guide)**. 
